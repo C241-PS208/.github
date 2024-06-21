@@ -2,16 +2,16 @@
 ## Bangkit 2024 Capstone Team: C241-PS208
 
 <p align="center">
-  <img align="center" width="400" src="/profile/logo shavemax.jpg" />
+  <img align="center" width="400" src="/profile/logo shavemax no bg.jpg" />
 </p>
   
 <h1 align="center">ShaveMax</h1>
   
-**Description:**  
+📄**Description:**  
 In today's fast-paced world, finding the perfect haircut can be daunting, especially when considering factors like face shape and personal style. Our app aims to revolutionize the haircutting experience with an innovative Haircut Recommendation App by leveraging cutting-edge machine learning techniques, our app analyzes facial features to determine the ideal haircut for each individual. We address the common challenge of choosing a flattering hairstyle by providing personalized recommendations tailored to the user's face shape. Through user-friendly design and intuitive functionality, our app seeks to empower users to confidently explore new hairstyles and enhance their self-expression. Our team is motivated by the opportunity to simplify the haircut decision-making process and empower individuals to look and feel their best.
 
 
-## Meet Our Team
+##  🙋‍ Meet Our Team
 | ID             | Learning Path       | University                          | Name                       | Status |
 |----------------|---------------------|-------------------------------------|----------------------------|--------|
 | M009D4KY2095   | Machine Learning    | Gunadarma University                | Gilang Ferdiansyah         | Active |
