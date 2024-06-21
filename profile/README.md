@@ -1,4 +1,3 @@
-# Profile
 
 ## Bangkit 2024 Capstone Team: C241-PS208
 
