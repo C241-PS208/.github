@@ -5,11 +5,12 @@
 ![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/c98542a9-a7dd-4eac-9a22-de8ff7b407a2)
 </p>
 <p align="center">
-  # ShaveMax
+  ## ShaveMax
 </p>
+![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/c98542a9-a7dd-4eac-9a22-de8ff7b407a2)
 
 
-Description:
+**Description:**  
 In today's fast-paced world, finding the perfect haircut can be daunting, especially when considering factors like face shape and personal style. Our app aims to revolutionize the haircutting experience with an innovative Haircut Recommendation App by leveraging cutting-edge machine learning techniques, our app analyzes facial features to determine the ideal haircut for each individual. We address the common challenge of choosing a flattering hairstyle by providing personalized recommendations tailored to the user's face shape. Through user-friendly design and intuitive functionality, our app seeks to empower users to confidently explore new hairstyles and enhance their self-expression. Our team is motivated by the opportunity to simplify the haircut decision-making process and empower individuals to look and feel their best.
 
 
