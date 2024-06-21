@@ -4,10 +4,10 @@
 <p align="center">
 ![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/c98542a9-a7dd-4eac-9a22-de8ff7b407a2)
 </p>
+  
 <p align="center">
-  ## ShaveMax
+  #ShaveMax
 </p>
-![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/c98542a9-a7dd-4eac-9a22-de8ff7b407a2)
 
 
 **Description:**  
