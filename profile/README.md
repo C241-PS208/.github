@@ -2,9 +2,10 @@
 ## Bangkit 2024 Capstone Team: C241-PS208
 
 <p align="center">
-![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/a8bc3735-a118-46ff-bb34-bf3f9117ec41)
-
-## ShaveMax
+![logo shavemax](https://github.com/C241-PS208/.github/assets/153485927/c98542a9-a7dd-4eac-9a22-de8ff7b407a2)
+</p>
+<p align="center">
+  # ShaveMax
 </p>
 
 
